@@ -1,0 +1,18 @@
+Library System
+This is a simple Python project that models a library system. It consists of two classes: Book and Library.
+
+Classes
+
+1. Book
+   This class represents a book and contains the following attributes:
+
+title: The title of the book.
+author: The author of the book.
+ISBN: The ISBN of the book.
+
+2. Library
+   This class represents a library and includes the following functionalities:
+
+add_book(book): Adds a Book object to the library's book list.
+remove_book(book): Removes a Book object from the library's book list.
+display_books(): Displays the details (title, author, and ISBN) of the books available in the library.
