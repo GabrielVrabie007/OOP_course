@@ -1,0 +1,53 @@
+{
+    "faculties": [
+        {
+            "name": "FCIM",
+            "field": "urbanism",
+            "enrolled_students": [],
+            "graduates": [
+                {
+                    "name": "vrabie",
+                    "id": "0001",
+                    "email": "sada",
+                    "graduated": true,
+                    "group": "TI-232"
+                }
+            ]
+        },
+        {
+            "name": "FEEA",
+            "field": "microelectronica si informatica",
+            "enrolled_students": [],
+            "graduates": [
+                {
+                    "name": "Alexei",
+                    "id": "0002",
+                    "email": "alexei@isa.utm.md",
+                    "graduated": true,
+                    "group": "TI-231"
+                }
+            ]
+        },
+        {
+            "name": "FMV",
+            "field": "medicina veterinara",
+            "enrolled_students": [
+                {
+                    "name": "Boris",
+                    "id": "0003",
+                    "email": "BorisGalcea@isa.utm.md",
+                    "graduated": false,
+                    "group": "FE-231"
+                }
+            ],
+            "graduates": []
+        },
+        {
+            "name": "FEIE",
+            "field": "Inginerie Biomedicala",
+            "enrolled_students": [],
+            "graduates": []
+        }
+    ],
+    "last_student_id": 3
+}
